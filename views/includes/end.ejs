@@ -1,0 +1,31 @@
+<script src="/js/main.js"></script>
+<!-- <script src="https://js.stripe.com/v3/"></script>
+<script>
+    var stripe = Stripe('pk_test_wyIluIvdsz77VPqBjjEfc5WP00flk6iEn3');
+    var paymentRequest = stripe.paymentRequest({
+        country: 'US',
+        currency: 'usd',
+        total: {
+            label: 'Demo total',
+            amount: 1000,
+        },
+        requestPayerName: true,
+        requestPayerEmail: true,
+    });
+    var elements = stripe.elements();
+    var prButton = elements.create('paymentRequestButton', {
+        paymentRequest: paymentRequest,
+    });
+
+    // Check the availability of the Payment Request API first.
+    paymentRequest.canMakePayment().then(function (result) {
+        if (result) {
+            prButton.mount('#payment-request-button');
+        } else {
+            document.getElementById('payment-request-button').style.display = 'none';
+        }
+    });
+</script> -->
+</body>
+
+</html>

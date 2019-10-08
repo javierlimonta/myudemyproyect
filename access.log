@@ -1,0 +1,6 @@
+::1 - - [08/Oct/2019:14:27:21 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+::1 - - [08/Oct/2019:14:27:22 +0000] "GET /css/main.css HTTP/1.1" 200 - "https://localhost:3003/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+::1 - - [08/Oct/2019:14:27:22 +0000] "GET /css/product.css HTTP/1.1" 200 379 "https://localhost:3003/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+::1 - - [08/Oct/2019:14:27:22 +0000] "GET /js/main.js HTTP/1.1" 200 519 "https://localhost:3003/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+::1 - - [08/Oct/2019:14:27:22 +0000] "GET /images/1.jpg HTTP/1.1" 200 72709 "https://localhost:3003/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
+::1 - - [08/Oct/2019:14:27:22 +0000] "GET /favicon.ico HTTP/1.1" 404 - "https://localhost:3003/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
