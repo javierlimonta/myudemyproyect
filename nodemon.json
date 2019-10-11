@@ -3,6 +3,7 @@
         "MONGO_USER": "jlimonta",
         "MONGO_PASSWORD": "ugVQjPf1BPlWrFPB",
         "MONGO_DEFAULT_DATABASE":"shop",
-        "STRIPE_KEY":"pk_test_wyIluIvdsz77VPqBjjEfc5WP00flk6iEn3"
+        "STRIPE_KEY":"pk_test_wyIluIvdsz77VPqBjjEfc5WP00flk6iEn3",
+        "SEND_GRID":"A"
     }
 }
